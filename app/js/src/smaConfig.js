@@ -1,0 +1,74 @@
+var smdConfig = {
+	"desktop":{
+		'content-hero':{
+			/*"smd1":{
+				"triggerDom":".content-hero .hero-intro-desktop",
+				'triggerPlay':0.9,
+				'triggerReset':0.99,
+				'triggerOffset':0,
+				'ani_type':'base',
+				'ani_align':'start',
+				'ani_stagger_t':0.1,
+				'ani':[{
+					'change':[{
+						'proper':'opacity',
+						'from':0,
+						'to':1
+					},{
+						'proper':'y',
+						'from':80,
+						'to':0
+					}],
+					'duration':0.5,
+					'dom':'.content-hero .hero-intro-desktop .intro-box .intro-text h2'
+				}],
+				'needbroadcast':false,
+				'inited':false,
+				'debug':false,
+				'enable':true,
+				'reset':true,
+				'widthScope':[641,1000000]
+			}*/
+		}
+	},
+	"mobile":{
+		'content-hero':{
+			/*"smd1":{
+				"triggerDom":".content-hero .hero-intro-mobile .intro-box .intro-photo .intro-new",
+				'triggerPlay':0.9,
+				'triggerReset':0.99,
+				'triggerOffset':0,
+				'ani_type':'base',
+				'ani_align':'start',
+				'ani_stagger_t':0.1,
+				'ani':[{
+					'change':[{
+						'proper':'opacity',
+						'from':0,
+						'to':1
+					}],
+					'duration':0.5,
+					'dom':'.content-hero .hero-intro-mobile .intro-box .intro-photo .intro-new .intro-img'
+				},{
+					'change':[{
+						'proper':'opacity',
+						'from':0,
+						'to':1
+					},{
+						'proper':'y',
+						'from':30,
+						'to':0
+					}],
+					'duration':0.5,
+					'dom':'.content-hero .hero-intro-mobile .intro-box .intro-photo .intro-new .intro-img-text'
+				}],
+				'needbroadcast':false,
+				'inited':false,
+				'debug':false,
+				'enable':true,
+				'reset':true,
+				'widthScope':[0,640]
+			}*/
+		}
+	}
+};

@@ -1,0 +1,6 @@
+{{#if PaidPost.standaloneFlag }}
+	{{! Nothing additional for Standalone }}
+{{else}}
+	{{!-- <link rel="stylesheet" type="text/css" media="screen" href="{{ PaidPost.assetsServer }}common/styles/templates/standard-article-v2.0.0.css" /> --}}
+	<link rel="stylesheet" data-pp-type="pp-slideshow" type="text/css" media="screen" href="{{ PaidPost.assetsServer }}common/styles/modules/slideshow/styles-v1.0.0.css"/>
+{{/if}}

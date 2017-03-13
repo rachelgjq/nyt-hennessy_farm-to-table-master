@@ -1,0 +1,44 @@
+{
+	head: {
+		title: "Beyond Farm <span class='last-word'>to Table</span>",
+        legal: "Photography by Ike Edeani",
+        subTitle: "In Philadelphia’s Fishtown, One Restaurant Is Going <span class='last-word'>Whole Hog</span>",
+        paragraph: "Running a kitchen is chaotic and complicated under normal circumstances, but Damon Menapace has mastered more than just his farm-to-table menu. Driven by passion and know-how, the 30-year-old chef helms Kensington Quarters — part restaurant, part butchery, part cocktail bar, part classroom — forging a bold new culinary experience in the heart of the Philadelphia’s historic <span class='last-word'>Fishtown neighborhood.</span> "
+	},
+    neighborhood: {
+        corn: "neighborhoodCorn.png",
+        text: "“We nestled in at the right time and have become ingrained in the new version of <span class='last-word'> the neighborhood.”</span> ",
+        paragraph: "Kensington Quarters specializes in locally raised, top-quality meat and produce in a building that once housed a welding shop. “I first started coming up here three years ago when the owners showed me the space,” Menapace says, recalling the then quiet, working-class district. “We nestled in at the right time and have become ingrained in the new version of <span class='last-word'>the neighborhood.”</span> "
+    },
+    waiter: {
+    	paragraph: "The restaurant’s designers drew from the neighborhood’s industrial history. According to Tim Kweeder, Kensington Quarter’s general manager, the tables, constructed to slide along I-beams to accommodate large parties, are made from reclaimed floorboards from South Philly homes. “They were just being thrown out in the trash,” he says. In the right eyes, one person’s garbage became another’s ingenious <span class='last-word'>design element.</span> "
+    },
+    knife: {
+        corn: "knifeCorn.png",
+    	text: "“The less steps, the better.”",
+    	paragraph: "Kensington Quarter’s ingredients-first philosophy is typified by the restaurant’s carefully curated meat selection, where customers can order locally sourced meat and poultry, as well as house-made charcuterie, methodically selected and prepared. “What the animals are eating is very important,” says Menapace, who has a deep knowledge of the region’s farms. “How many different hands are they going through? The less steps, <span class='last-word'>the better.</span> ”"
+    },
+    plate: {
+    	paragraph: "Menapace originally trained in Northern Italian cuisine and has worked in some of Philly’s best restaurants. At Kensington Quarters, he sources animals and products within the Delaware Valley. Produce is often grown within a few miles of city limits. The mushroom farmers are only a mile down the road, and some of the herbs are picked right from the restaurant’s backyard. “Buy good stuff, let that show through,” <span class='last-word'>he says.</span> "
+    },
+    menu: {
+        corn: "menuCorn.png",
+    	text: "“The menu has some smaller bites that go well for casual drinking and <span class='last-word'> hanging out.”</span> ",
+    	paragraph-d: "Whether it’s food or drinks, product of the highest-standard takes forethought. Since liquor licenses are difficult to come by in Philly, restaurants often have a bring-your-own policy. Kensington Quarters, however, boasts a rare full bar with a craft-cocktail menu. And Kweeder, a wine-industry veteran, is something of a celebrity sommelier. Together, the team has created a beverage menu that pairs beautifully with <span class='last-word'>Menapace’s menu.</span> ",
+        paragraph-m: "Whether it’s food or drinks, product of the highest-standard takes forethought. Since liquor licenses are difficult to come by in Philly, restaurants often have a bring-your-own policy. Kensington Quarters, however, boasts a rare full bar with a craft-cocktail menu. And Kweeder, a wine-industry veteran, is something of a celebrity sommelier. Together, the team has created a beverage menu that pairs beautifully with <span class='last-word'>Menapace’s menu.</span> "
+    },
+    meat: {
+    	paragraph: "The beet salad is plated with spiced almonds, feta and a honey-sherry vinaigrette. Spicy carrots are elevated with harissa, yogurt and lime. “Because you’re doing less to the food, it takes a little more execution, a little more nuance,” says Menapace, who spent a year working to perfect his menu before opening. “We’re not piling up ingredients and manufacturing a dish. We’re letting the ingredients speak. That’s <span class='last-word'>the point.”</span> "
+    },
+    brothers: {
+    	paragraph: "The food at Kensington Quarters evolved as Menapace found his stride. “I’ll go out to eat at an Asian-themed restaurant or French and just take something that I like and make it my own here, without copying it or trying to do it authentically — just taking what I like and adding that in,” he says. “The menu is a little more fun, a little more playful, and a little <span class='last-word'>more exciting.”</span> "
+    },
+    market: {
+    	paragraph: "With Menapace’s fine-tuned guidance, customers are more willing to try new things than ever. “We've gotten people excited about using pork shanks, pork trotter,” he says. “A lot of restaurants open and it’s about their theme or their décor, and not enough focus is put on what they're actually serving.” For Menapace, mastery is all about what’s on <span class='last-word'>the plate.</span> "
+    },
+    footer: {
+    	title: "Harmony. ",
+    	subTitle: "Mastered From Chaos.",
+    	cta: "Learn More"
+    }
+}
