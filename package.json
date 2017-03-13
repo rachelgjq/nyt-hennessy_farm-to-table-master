@@ -1,0 +1,23 @@
+{
+  "name": "hennessy_farm-to-table",
+  "private": true,
+  "author": "Ad Platform Innovations",
+  "version": "1.0.1",
+  "PaidPost": {
+    "clientName": "Hennessy",
+    "clientPath": "hennessy",
+    "projectName": "Farm to Table",
+    "projectPath": "farm-to-table",
+    "clientLogoPath": "images/logo.png",
+    "clientLink": "http://www.hennessy.com/us/collection/vsop-privilege/",
+    "showClientName": false
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "jit-grunt": "^0.10.0",
+    "load-grunt-config": "^0.19.1",
+    "scaffolding": "github:nytpi/scaffolding#release/v3.8.0"
+    ,
+    "nytpi-sass-utils": "github:nytpi/nytpi-sass-utils#v2.3.1"
+  }
+}

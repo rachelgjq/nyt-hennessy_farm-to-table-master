@@ -1,0 +1,6 @@
+{
+  "name": "hennessy_farm-to-table",
+  "dependencies": {
+  "JKSizeClassEventHandler": "https://github.com/nytpi/JKSizeClassEventHandler.git"
+  }
+}
